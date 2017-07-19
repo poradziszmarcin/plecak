@@ -1,0 +1,14 @@
+{
+    "name": "coder/backpack",
+    "autoload": {
+        "psr-4": {
+            "Backpack\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Poradzisz Marcin",
+            "email": "poradziszmarcin@outlook.com"
+        }
+    ]
+}
